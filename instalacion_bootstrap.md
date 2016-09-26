@@ -75,4 +75,8 @@ Si nos aparece lo siguiente
 
 ![Bootstrap work!](images/bootstrap_work.png)
 
-it's work!
+Todo está funcionando.
+
+## Algunos ejemplos
+* [Grilla 1](actividades/actividad_1.html)
+* [Grilla 2](actividades/actividad_2.html)

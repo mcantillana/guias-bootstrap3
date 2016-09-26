@@ -1,0 +1,23 @@
+header .container {
+	background-color: black;
+}
+
+header h1 {
+	color: white;
+}
+
+section.main{
+
+}
+
+.main aside {
+	background-color: #EEE;
+}
+footer .container {
+	background-color: #AAA; 
+}
+
+footer p {
+	color: white;
+	text-align: center;
+}
